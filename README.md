@@ -14,3 +14,4 @@ Front-End Development<br>HTML || CSS || BOOTSTRAP || JAVASCRIPT<br>Mini Projects
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SriVishalS&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://gpvc.arturio.dev/[SriVishalS])

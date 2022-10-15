@@ -1,9 +1,10 @@
 ![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Sri Vishal S.</h1>
 <h3 align="center">A Passionate FrontEnd Web Application Programmer From Chennai, India</h3>
-# 💫 About Me:
-Front-End Development<br>HTML || CSS || BOOTSTRAP || JAVASCRIPT<br>Mini Projects <br>Student 20 Year Old<br>Open Source
 
+
+# 💫 About Me:
+Front-End Development<br>HTML || CSS || BOOTSTRAP || JAVASCRIPT<br>Mini Projects<br>Student 20 Year Old<br>Open Source
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srivishals) 

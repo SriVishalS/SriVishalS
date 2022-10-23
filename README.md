@@ -19,4 +19,3 @@ Front-End Development<br>HTML || CSS || BOOTSTRAP || JAVASCRIPT<br>Mini Projects
 ---
 [![](https://visitcount.itsvg.in/api?id=SriVishalS&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=SriVishalS&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)

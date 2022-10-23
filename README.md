@@ -18,4 +18,3 @@ Front-End Development<br>HTML || CSS || BOOTSTRAP || JAVASCRIPT<br>Mini Projects
 
 ---
 ![](https://komarev.com/ghpvc/?username=SrivishalS)
-https://img.shields.io/badge/MACHINE LEARNING-yellow?style=for-the-badge

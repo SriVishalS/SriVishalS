@@ -1,6 +1,6 @@
-<div align="center">
+<img align="center">
 ![MasterHead](https://media1.giphy.com/media/EeZ6mLsRRik8cgnh3D/giphy.gif?cid=ecf05e47ao7md1xbzxoomrqpai9paotjy6c6slh32kxyilxg&rid=giphy.gif&ct=g)
-</div>
+</img>
 
 <h1 align="center">Hi 👋, I'm Sri Vishal S.
 

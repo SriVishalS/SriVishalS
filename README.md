@@ -1,6 +1,6 @@
 ![MasterHead](https://previews.123rf.com/images/graphicwithart/graphicwithart2008/graphicwithart200800001/152950892-vector-isometric-illustration-of-an-front-end-developer.jpg)
 <p align="center">
-  <img width="460" height="300" src="https://jusmarktech.com/public/a/images/pages/web_development.gif">
+  <img width="760" height="300" src="https://jusmarktech.com/public/a/images/pages/web_development.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Sri Vishal S.</h1>
 <h3 align="center">A Passionate FrontEnd Web Application Programmer From Chennai, India</h3>

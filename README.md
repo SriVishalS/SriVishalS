@@ -13,7 +13,7 @@
 
 
 # 💫 About Me:
-Front-End Development<br>HTML || CSS || BOOTSTRAP || JAVASCRIPT<br>Mini Projects<br>Student 20 Year Old<br>Open Source
+Knows Front-End WEB Development<br>Learns Typescript,Jquery,Mobile Application Devolopment!<br>Well Versed In Data Structures And Algorithms.<br>Mini Projects<br>Student 20 Year Old<br>Open Source
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srivishals) 

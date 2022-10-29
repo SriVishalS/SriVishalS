@@ -18,9 +18,9 @@ Knows Front-End WEB Development<br>Learns Typescript,Jquery,Mobile Application D
 
 ## Some Of His Certications:
 <img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="46%"></img> 
-<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="46%"></img> 
-<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="46%"></img> 
-<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="46%"></img> 
+<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-2.png" width="46%"></img> 
+<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-3.png" width="46%"></img> 
+<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-4.png" width="46%"></img> 
 <img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="46%"></img> 
 
 

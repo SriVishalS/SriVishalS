@@ -5,7 +5,7 @@
 <p align="center">
   <img width="100%" height="100%" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 </p>
-<img src="https://github.com/SriVishalS/SriVishalS/blob/1173d661749b3b3913fd580d7a75e5dec422a50e/ImgEditor.png" height="100%" width ="100%">
+<img src="https://github.com/SriVishalS/SriVishalS/blob/12d2b70f496625ab2a5ab89a442c092e796d81c3/Sri%20Vishal%20S.%20(1).pdf" height="100%" width ="100%">
 
 
 <hr>

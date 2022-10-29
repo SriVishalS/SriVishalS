@@ -17,12 +17,12 @@
 Knows Front-End WEB Development<br>Learns Typescript,Jquery,Mobile Application Devolopment!<br>Well Versed In Data Structures And Algorithms.<br>Mini Projects<br>Student 20 Year Old<br>Open Source
 
 ## Some Of His Certications:
-<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" height="100%" width ="23%">
-<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" height="100%" width ="23%">
-<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" height="100%" width ="23%">
-<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" height="100%" width ="23%">
-<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" height="100%" width ="23%">
-<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" height="100%" width ="23%">
+<img src="https://cloud.githubusercontent.com/assets/4307137/10105283/251b6868-63ae-11e5-9918-b789d9d682ec.png" width="23%"></img> 
+<img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" width="23%"></img> 
+<img src="https://cloud.githubusercontent.com/assets/4307137/10105284/26aa7ad4-63ae-11e5-88b7-bc523a095c9f.png" width="23%"></img> 
+<img src="https://cloud.githubusercontent.com/assets/4307137/10105288/28698fae-63ae-11e5-8ba7-a62360a8e8a7.png" width="23%"></img> 
+<img src="https://cloud.githubusercontent.com/assets/4307137/10105283/251b6868-63ae-11e5-9918-b789d9d682ec.png" width="23%"></img> 
+<img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" width="23%"></img> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srivishals) 

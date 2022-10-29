@@ -3,7 +3,7 @@
    <img width="48%" height="100%" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 </p>
 <hr>
-<h3 align="center">Hi 👋, I'm Sri Vishal S.</h3>
+<h2 align="center">Hi 👋, I'm Sri Vishal S.</h2>
 <h5 align="center">A Passionate FrontEnd Web Application Programmer From Chennai, India</h5>
 <hr>
 
@@ -12,7 +12,8 @@
 Knows Front-End WEB Development<br>Learns Typescript,Jquery,Mobile Application Devolopment!<br>Well Versed In Data Structures And Algorithms.<br>Mini Projects<br>Student 20 Year Old<br>Open Source
 <hr>
 
-## Some Of His Certications:
+<h2 align="center">Some Of His Certifications.</h2>
+
 <p align ="center">
 <img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="100%" height="100%"></img> 
 <h00%

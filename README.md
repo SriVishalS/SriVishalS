@@ -17,11 +17,11 @@
 Knows Front-End WEB Development<br>Learns Typescript,Jquery,Mobile Application Devolopment!<br>Well Versed In Data Structures And Algorithms.<br>Mini Projects<br>Student 20 Year Old<br>Open Source
 
 ## Some Of His Certications:
-<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="23%"></img> 
-<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="23%"></img> 
-<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="23%"></img> 
-<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="23%"></img> 
-<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="23%"></img> 
+<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="46%"></img> 
+<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="46%"></img> 
+<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="46%"></img> 
+<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="46%"></img> 
+<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="46%"></img> 
 
 
 ## 🌐 Socials:

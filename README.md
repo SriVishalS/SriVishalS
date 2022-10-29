@@ -6,8 +6,8 @@
 <h3 align="center">Hi 👋, I'm Sri Vishal S.</h3>
 <h5 align="center">A Passionate FrontEnd Web Application Programmer From Chennai, India</h5>
 
-
-# 💫 Summary Of Vishal's Technical Life:
+     
+<h4>💫 Summary Of Vishal's Technical Life:</h4>
 Knows Front-End WEB Development<br>Learns Typescript,Jquery,Mobile Application Devolopment!<br>Well Versed In Data Structures And Algorithms.<br>Mini Projects<br>Student 20 Year Old<br>Open Source
 
 ## Some Of His Certications:

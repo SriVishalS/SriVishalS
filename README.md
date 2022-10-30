@@ -4,7 +4,7 @@
 </p>
 <hr>
 <h2 align="center">Hi 👋, I'm Sri Vishal S.</h2>
-<h5 align="center">A Passionate FrontEnd Web Application Programmer From Chennai, India</h5>
+<p align="center">A Passionate FrontEnd Web Application Programmer From Chennai, India</p>
 <hr>
 
      

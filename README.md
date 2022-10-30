@@ -48,7 +48,7 @@ Knows Front-End WEB Development<br>Learns Typescript,Jquery,Mobile Application D
 <hr>
 <h2 align="center">📊 Some GitHub Stats</h2>
 
-<div>
+<div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=SriVishalS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SriVishalS&theme=dark&hide_border=false)<br/>

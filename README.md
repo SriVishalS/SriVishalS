@@ -45,7 +45,6 @@ Knows Front-End WEB Development<br>Learns Typescript,Jquery,Mobile Application D
 </p>
 <p align="right">ADDING MORE SOON.........</p>
 </p>
-<hr>
 
 
 

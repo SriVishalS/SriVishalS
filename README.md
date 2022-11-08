@@ -7,7 +7,6 @@
 <p align="center">A Passionate FrontEnd Web Application Programmer From Chennai, India</p>
 <hr>
 
-     
 <h2 align="center">💫 Summary Of Vishal's Technical Life:</h2>
 Knows Front-End WEB Development<br>Learns Typescript,Jquery,Mobile Application Devolopment!<br>Well Versed In Data Structures And Algorithms.<br>Mini Projects<br>Student 20 Year Old<br>Open Source
 <hr>
@@ -27,7 +26,8 @@ Knows Front-End WEB Development<br>Learns Typescript,Jquery,Mobile Application D
 <hr>
 <h2 align="center">🌐 Socials</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srivishals) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srivishals)
+
 <hr>
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -41,14 +41,15 @@ Knows Front-End WEB Development<br>Learns Typescript,Jquery,Mobile Application D
 
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=SriVishalS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs?username=srivishals&show_icons=true&locale=en&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SriVishalS&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SriVishalS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
  </div> 
 <hr>
 
-
 ---
+
 ![](https://komarev.com/ghpvc/?username=SrivishalS)
+
 <!-- [![](https://visitcount.itsvg.in/api?id=SriVishalS&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in) -->

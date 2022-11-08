@@ -40,8 +40,8 @@ Knows Front-End WEB Development<br>Learns Typescript,Jquery,Mobile Application D
 <h2 align="center">📊 Some GitHub Stats</h2>
 
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivishals&show_icons=true&locale=en" alt="srivishals" /></p>
-[](https://github-readme-stats.vercel.app/api?username=SriVishalS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivishals&show_icons=true&locale=en" alt="srivishals" /></p> -->
+[](https://github-readme-stats.vercel.app/api?username=SriVishalS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SriVishalS&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SriVishalS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   

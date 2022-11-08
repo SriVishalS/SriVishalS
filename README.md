@@ -49,7 +49,7 @@ Knows Front-End Web Development<br>Learns Typescript,Jquery,Node.js,Other Small 
 </p>
 <p align="right">ADDING MORE SOON.........</p>
 </p>
-<hr>
+
 
 ---
 

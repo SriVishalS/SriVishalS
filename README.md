@@ -4,7 +4,9 @@
 </p>
 ---
 
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=SrivishalS)
+</div>
 
 <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srivishals" alt="srivishals" /></a> </p>

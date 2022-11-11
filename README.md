@@ -2,7 +2,7 @@
   <img width="48%" height="100%" src="https://jusmarktech.com/public/a/images/pages/web_development.gif">
    <img width="48%" height="100%" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 </p>
-
+![](https://komarev.com/ghpvc/?username=SrivishalS)
 <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srivishals" alt="srivishals" /></a> </p>
 <hr>
@@ -57,7 +57,7 @@ Knows Front-End Web Development,JavaScript<br>Learns Typescript,Jquery,Node.js,O
 
 
 ---
-![](https://komarev.com/ghpvc/?username=SrivishalS)
+
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=SriVishalS&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in) -->

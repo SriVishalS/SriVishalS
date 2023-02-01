@@ -11,9 +11,6 @@
 
 <h2 align="center">💫 Summary Of Vishal's Technical Life:</h2>
 
-
-
-
 ```js
 document.write("Hello World");
 Developer dev = new Developer(Sagar Sharma);
@@ -21,13 +18,12 @@ const Sagar = {
     pronouns: "he" | "his",
     status: Student,
     technologies: {
-        frontEnd: [HTML, CSS, SASS, Javascript],
-        backEnd: [Node.js, Express.js, Mongoose.js, MongoDB, Python],
-        libraries: [Bootstrap, JQuery]
+        frontEnd: [HTML, CSS, SASS, Javascript,Typescript],
+        libraries: [Bootstrap, JQuery,Tailwind,Bootstrap,Swiper JS, Api]
     },
-    editors: [VS Code, Vim, PyCharm, Nano],
+    editors: [VS Code],
     learning: [Kali Linux],
-    contact: 6969sagarsharma@gmail.com
+    contact: <a href="https://vishalknowsweb.netlify.app/">Message Me!</a>
 };
 
 if(succeed == false){
@@ -76,7 +72,6 @@ if(succeed == false){
 </p>
 <p align="right">ADDING MORE SOON.........</p>
 </p>
-
 
 ---
 

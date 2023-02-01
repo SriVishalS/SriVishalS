@@ -23,7 +23,7 @@ const Sagar = {
     },
     editors: [VS Code],
     learning: [Kali Linux],
-    contact: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srivishals)
+    contact: srivishalCarreers@gmail.com
 };
 
 if(succeed == false){

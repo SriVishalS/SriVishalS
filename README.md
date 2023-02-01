@@ -10,9 +10,7 @@
 <hr>
 
 <h2 align="center">💫 Summary Of Vishal's Technical Life:</h2>
-Knows Front-End Web Development,JavaScript<br>Learns Typescript,Jquery,Node.js,Other Small Libraries<br>Well Versed In Data Structures And Algorithms.<br>Mini Projects<br>Student 20 Year Old<br>Open Source
-<hr>
-### About me 
+
 
 
 

@@ -13,7 +13,7 @@
 
 ```js
 document.write("Hello World");
-Developer dev = new Developer(Sagar Sharma);
+Developer dev = new Developer(Sri Vishal);
 const sriVishal = {
     pronouns: "he" | "his",
     status: Student,

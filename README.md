@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srivishals" alt="srivishals" /></a> </p>
 <hr>
 <h2 align="center">Hi 👋, I'm Sri Vishal S.</h2>
-<p align="center">A Passionate FrontEnd Web Application Programmer From Chennai, India</p>
+<p align="center">A Passionate FrontEnd Web Devoloper From Chennai, India</p>
 <hr>
 
 <h2 align="center">💫 Summary Of Vishal's Technical Life:</h2>
@@ -19,9 +19,9 @@ const sriVishal = {
     status: Student,
     technologies: {
         frontEnd: [HTML, CSS, SASS, Javascript,Typescript],
-        libraries: [Bootstrap, JQuery,Tailwind,Bootstrap,Swiper JS, Api]
+        libraries: [Bootstrap, JQuery,Tailwind,Bootstrap,Swiper JS,React,Next,Node, Api,Prisma]
     },
-    editors: [VS Code],
+    editors: [VS Code,Visual Studio],
     learning: [Kali Linux],
     contact: srivishalCarreers@gmail.com
 };
